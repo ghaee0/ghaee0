@@ -3,7 +3,7 @@
 <h2>💡 Selected Projects:</h2>
 <a>Here are a few of my favorite projects that combine data analytics, visualization, and creative problem-solving:</a>
 
-
+<b></b>
 <b>Green Riyadh App Prototype</b>
 
 <b>Deepfake Detection Using Deep Learning</b>
