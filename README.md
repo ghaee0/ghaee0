@@ -1,6 +1,7 @@
 <h1>Hi, I'm Ghaida! </h1>
 <a>Passionate about turning data into insight. I love exploring BI, analytics, and machine learning to build smarter, data-driven solutions. </a>
-<h2>📊 Power bi Dashboards:</h2>
+<h2>💡 Selected Projects:</h2>
+<a>Here are a few of my favorite projects that combine data analytics, visualization, and creative problem-solving:</a>
 
 <b>In progress</b>
 <!--
