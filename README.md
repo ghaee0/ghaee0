@@ -1,5 +1,5 @@
 <h1>Hi, I'm Ghaida! </h1>
-<a href="https://linkedin.com/in/khathlang">Passionate about turning data into insight. I love exploring BI, analytics, and machine learning to build smarter, data-driven solutions. </a>
+<a>Passionate about turning data into insight. I love exploring BI, analytics, and machine learning to build smarter, data-driven solutions. </a>
 <h2>📊 Power bi Dashboards:</h2>
 
 <b>In progress</b>
