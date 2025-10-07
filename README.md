@@ -4,7 +4,7 @@
 <a>Here are a few of my favorite projects that combine data analytics, visualization, and creative problem-solving:</a>
 
 <b></b>
-<b>Design</b>
+<b>🎨 Design</b>
 <br/>
 [Green Riyadh App](https://github.com/ghaee0/Green-Riyadh-Prototype-)
 
