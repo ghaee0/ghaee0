@@ -4,15 +4,17 @@
 <a>Here are a few of my favorite projects that combine data analytics, visualization, and creative problem-solving:</a>
 
 <b></b>
-<b>Green Riyadh App Prototype</b>
+<b>Design</b>
 <br/>
 [Green Riyadh App](https://github.com/ghaee0/Green-Riyadh-Prototype-)
 
-<b>Deepfake Detection Using Deep Learning</b>
+<b>AI Projects</b>
+<br/>
+[Deepfake Detection](https://github.com/ghaee0/Deepfake-Detection)
 
-
-
-<b>Airbnb Market Dashboard</b>
+<b>Dashboards</b>
+<br/>
+[Airbnb Market Dashboard](https://github.com/ghaee0/Airbnb-Market-Dashboard)
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
