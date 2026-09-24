@@ -14,7 +14,7 @@
 
 <b>Dashboards</b>
 <br/>
-[Airbnb Market Dashboard](https://github.com/ghaee0/Airbnb-Market-Dashboard)
+[Dashboards](https://github.com/ghaee0/Airbnb-Market-Dashboard)
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
